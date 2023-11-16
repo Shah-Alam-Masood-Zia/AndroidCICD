@@ -10,7 +10,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             AndroidCICDTheme {
-
+                // This is a comment
             }
         }
     }
