@@ -8,6 +8,7 @@ import com.technosoft.androidcicd.ui.theme.AndroidCICDTheme
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContent {
             AndroidCICDTheme {
                 // This is a comment
